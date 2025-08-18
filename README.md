@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Overview  
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamrajpandey&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrajpandey&layout=compact&theme=tokyonight" height="180" />
 </div>
@@ -29,10 +29,26 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 [Email](mailto:shubhamrajpandey875@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubhamrpandey)  
-- 📸 [Instagram](https://www.instagram.com/_shubham.pandey_/)  
-- 🌍 [Portfolio](https://shubhamrajpandey.com.np)  
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <a href="mailto:shubhamrajpandey875@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/shubhamrpandey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/_shubham.pandey_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://shubhamrajpandey.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
