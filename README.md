@@ -22,7 +22,6 @@
 ## 📊 GitHub Overview  
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamrajpandey&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrajpandey&layout=compact&theme=tokyonight" height="180" />
 </div>
 
