@@ -1,27 +1,30 @@
 # Hi there, I'm Shubham Raj Pandey  
-### Computer Science Student | Web Developer | UI/UX Enthusiast  
+### Web Developer | UI/UX Enthusiast | Computer Science Student 
 
 🚀 Passionate about building scalable web apps and beautiful user experiences  
-🌱 Currently learning **Express.js, Docker, Next.js**  
+🌱 Currently learning **Next.js, Express.js, Docker**  
 
 ---
 
 ## 🧠 About Me  
 - 🎓 BSc Computer Science Student from **Herald College Kathmandu**  
 - 💼 Building projects with **Typescript, React.js, Next.js & MySQL**  
-- ✍️ Writing blogs, designing in **Figma**
+- ✍️ Writing blogs, designing in **Figma**  
 - 🤝 Open to freelance, internships, and collaborations  
 
 ---
 
 ## 🔧 Tech Stack  
-`Java` • `JavaScript` • `React.js` • `Next.js` • `Express.js` • `PHP` • `MySQL` • `Python` • `Tailwind CSS` • `Docker` • `Figma` • `Git`  
+`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Express.js` • `Figma` • `Java` • `MySQL` • `Tailwind CSS` • `Docker` • `Python` • `Git`  
 
 ---
 
 ## 📊 GitHub Overview  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamrajpandey&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrajpandey&layout=compact&theme=tokyonight)  
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamrajpandey&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrajpandey&layout=compact&theme=tokyonight" height="180" />
+</div>
 
 ---
 
