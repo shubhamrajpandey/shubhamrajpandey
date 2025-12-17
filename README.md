@@ -1,12 +1,12 @@
 # Hi there, I'm Shubham Raj Pandey  
 ### Web Developer | UI/UX Enthusiast | Computer Science Student 
 
-🚀 Passionate about building scalable web apps and beautiful user experiences  
-🌱 Currently learning **Next.js, Express.js, Docker**  
+Passionate about building scalable web apps and beautiful user experiences  
+Currently learning **Next.js, Express.js, Docker**  
 
 ---
 
-## 🧠 About Me  
+## About Me  
 - BSc Computer Science Student from **Herald College Kathmandu**  
 - Building projects with **Typescript, React.js, Next.js & MySQL**  
 - Writing blogs, designing in **Figma**  
@@ -14,12 +14,12 @@
 
 ---
 
-## 🔧 Tech Stack  
+## Tech Stack  
 `JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Express.js` • `Figma` • `Java` • `MySQL` • `Tailwind CSS` • `Docker` • `Python` • `Git`  
 
 ---
 
-## 📊 GitHub Overview  
+## GitHub Overview  
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrajpandey&layout=compact&theme=tokyonight" height="180" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
