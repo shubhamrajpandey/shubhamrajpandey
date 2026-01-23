@@ -7,7 +7,6 @@ Currently learning **Next.js, Express.js, Docker**
 ---
 
 ## About Me  
-- BSc Computer Science Student from **Herald College Kathmandu**  
 - Building projects with **Typescript, React.js, Next.js & MySQL**  
 - Writing blogs, designing in **Figma**  
 - Open to freelance, internships, and collaborations  
