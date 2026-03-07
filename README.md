@@ -2,7 +2,6 @@
 ### Web Developer | UI/UX Enthusiast | Computer Science Student 
 
 Passionate about building scalable web apps and beautiful user experiences  
-Currently learning **Next.js, Express.js, Docker**  
 
 ---
 
@@ -20,9 +19,13 @@ Currently learning **Next.js, Express.js, Docker**
 
 ## GitHub Overview  
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrajpandey&layout=compact&theme=tokyonight" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamrajpandey&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhamrajpandey&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
@@ -50,4 +53,4 @@ Currently learning **Next.js, Express.js, Docker**
 
 ---
 
-> *"You don’t have to be great to start. But you have to start to be great."* – Zig Ziglar  
+> *"You don’t have to be great to start. But you have to start to be great."* – Zig Ziglar
