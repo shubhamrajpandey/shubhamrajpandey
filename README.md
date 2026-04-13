@@ -1,15 +1,6 @@
 # Hi there, I'm Shubham Raj Pandey  
 ### Web Developer | UI/UX Enthusiast | Computer Science Student 
 
-Passionate about building scalable web apps and beautiful user experiences  
-
----
-
-## About Me  
-- Building projects with **Typescript, React.js, Next.js & MySQL**  
-- Writing blogs, designing in **Figma**  
-- Open to freelance, internships, and collaborations  
-
 ---
 
 ## Tech Stack  
