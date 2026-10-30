@@ -4,7 +4,7 @@
 ---
 
 ## Tech Stack  
-`JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Express.js` • `Figma` • `Java` • `MySQL` • `Tailwind CSS` • `Docker` • `Python` • `Git`  
+`JavaScript` • `TypeScript` • `Nest.js` • `React.js` • `Next.js` • `Express.js` • `Figma` • `Java` • `MySQL` • `Tailwind CSS` • `Docker` • `Python` • `Git`  
 
 ---
 
